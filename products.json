@@ -1,0 +1,102 @@
+[
+  {
+    "name": "accent chair",
+    "price": 25999,
+    "image": "https://dl.airtable.com/.attachmentThumbnails/e8bc3791196535af65f40e36993b9e1f/438bd160",
+    "colors": ["#ff0000", "#00ff00", "#0000ff"],
+    "company": "marcos",
+    "description": "my description",
+    "category": "office"
+  },
+  {
+    "name": "albany sectional",
+    "price": 109999,
+    "image": "https://dl.airtable.com/.attachmentThumbnails/0be1af59cf889899b5c9abb1e4db38a4/d631ac52",
+    "colors": ["#000", "#ffb900"],
+    "company": "liddy",
+    "description": "my description",
+    "category": "kitchen"
+  },
+  {
+    "name": "armchair",
+    "price": 12599,
+    "image": "https://dl.airtable.com/.attachmentThumbnails/530c07c5ade5acd9934c8dd334458b86/cf91397f",
+    "colors": ["#000", "#00ff00", "#0000ff"],
+    "company": "marcos",
+    "description": "my description",
+    "category": "bedroom"
+  },
+  {
+    "name": "emperor bed",
+    "price": 23999,
+    "image": "https://dl.airtable.com/.attachmentThumbnails/0446e84c5bca9643de3452a61b2d6195/1b32f48b",
+    "colors": ["#0000ff", "#000"],
+    "company": "ikea",
+    "description": "my description",
+    "category": "bedroom"
+  },
+  {
+    "name": "nike sneakers",
+    "price": 20099,
+    "image": "https://dl.airtable.com/.attachmentThumbnails/0446e84c5bca9643de3452a61b2d6195/1b32f48b",
+    "colors": ["#0000ff", "#000"],
+    "company": "ikea",
+    "description": "Size 45 Nike air jordan sneakers. smooth and comfy",
+    "category": "fashion"
+  },
+  {
+    "name": "hike bike",
+    "price": 30899,
+    "image": "https://dl.airtable.com/.attachmentThumbnails/0446e84c5bca9643de3452a61b2d6195/1b32f48b",
+    "colors": ["#0000ff", "#000"],
+    "company": "ikea",
+    "description": "lovely hike bike for a wonderful hiking experience",
+    "category": "vehicle"
+  },
+
+  {
+    "name": "Fold-up tablet",
+    "price": 70000,
+    "image": "https://dl.airtable.com/.attachmentThumbnails/0446e84c5bca9643de3452a61b2d6195/1b32f48b",
+    "colors": ["#0000ff", "#000"],
+    "company": "marcos",
+    "description": "Huwaei fold-up tablet with 58 pixels camera, 6000mah power battery",
+    "category": "gadgets"
+  },
+  {
+    "name": "rocking chair",
+    "price": 90799,
+    "image": "https://dl.airtable.com/.attachmentThumbnails/0446e84c5bca9643de3452a61b2d6195/1b32f48b",
+    "colors": ["#0000ff", "#000"],
+    "company": "liddy",
+    "description": "Rocking Chair for your comfort", 
+    "category": "furniture"
+  },
+  {
+    "name": "Teddy night wear",
+    "price": 23999,
+    "image": "https://dl.airtable.com/.attachmentThumbnails/0446e84c5bca9643de3452a61b2d6195/1b32f48b",
+    "colors": ["#0000ff", "#000"],
+    "company": "marcos",
+    "description": "Pretty night wear size 11",
+    "category": "fashion"
+  },
+  {
+    "name": "OX air conditioner",
+    "price": 23999,
+    "image": "https://dl.airtable.com/.attachmentThumbnails/0446e84c5bca9643de3452a61b2d6195/1b32f48b",
+    "colors": ["#0000ff", "#000"],
+    "company": "ikea",
+    "description": "You'll love it",
+    "category": "electronics"
+  },
+  {
+    "name": "channel super model handbag",
+    "price": 130099,
+    "image": "https://dl.airtable.com/.attachmentThumbnails/0446e84c5bca9643de3452a61b2d6195/1b32f48b",
+    "colors": ["#0000ff", "#000"],
+    "company": "liddy",
+    "description": "Won't look good on you unless you try it on",
+    "category": "fashion"
+  }
+]

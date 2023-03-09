@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav-bar {
+    display: flex;
+    width: 100vw;
+}
+
+nav {
+    border: 1px solid blue;
+    width: 100%;
+    padding: 10px 2px;
+
+}
